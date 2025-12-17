@@ -7,12 +7,12 @@ nav: true
 nav_order: 4
 ---
 
-#### University of Guelph
-- **STAT*3110 - Mathematical Statistics II**, Teaching Assistant in Winter 2026
-- **STAT*2090 - Introductory Applied Statistics II**, Teaching Assistant in Winter 2026
-- **STAT*3100 - Mathematical Statistics I**, Teaching Assistant in Fall 2025
-- **Statistics Learning Center**, Teaching Assistant in Fall 2023, 2024, 2025 and Winter 2024, 2025, 2026
-- **CIS*2500 - Intermediate Programming**, Teaching Assistant in Winter 2024
-- **CIS*1300 - Programming**, Teaching Assistant in Fall 2023
+### **University of Guelph**
+- **_STAT*3110 - Mathematical Statistics II_**, Teaching Assistant in Winter 2026
+- **_STAT*2090 - Introductory Applied Statistics II_**, Teaching Assistant in Winter 2026
+- **_STAT*3100 - Mathematical Statistics I_**, Teaching Assistant in Fall 2025
+- **_Statistics Learning Center_**, Teaching Assistant in Fall 2023, 2024, 2025 and Winter 2024, 2025, 2026
+- **_CIS*2500 - Intermediate Programming_**, Teaching Assistant in Winter 2024
+- **_CIS*1300 - Programming_**, Teaching Assistant in Fall 2023
 
 
