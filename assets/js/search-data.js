@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
-          description: "",
+          description: "This is a non-exhaustive list of books I have read over the years since I turned 18. I prefer non-fiction and try to cover a wide breadth of topics. This list reflects my reading activity, not my opinions, values, or personal philosophy.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
