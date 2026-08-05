@@ -8,10 +8,12 @@ description: This is a non-exhaustive list of books I have read over the years s
 nav_order: 5
 ---
 #### **Books I am currently reading**
+- *A History of Canada in Ten Maps* - Adam Shoalts
 - *How Countries Go Broke: The Big Cycle* - Ray Dalio
 - *The Gene: An Intimate History* - Siddhartha Mukherjee
 
 #### **Books I have read**
+- *The Guest Cat* - Takashi Hiraide
 - *Sophie's World* - Jostein Gaarder
 - *Tender Is the Night* - F. Scott Fitzgerald
 - *The Gambler* - Fyodor Dostoevsky
@@ -29,7 +31,7 @@ nav_order: 5
 - *The Moral Landscape: How Science Can Determine Human Values* - Sam Harris
 - *A Brief History of Time* - Stephen Hawking
 - *Sapiens: A Brief History of Humankind* - Yuval Noah Harari
-- *12 Rules for Life: An Antidote to Chaos* - Jordan Peterson
+- *12 Rules for Life: An Antidote to Chaos* - Jordan B. Peterson
 - *Man's Search for Meaning* - Viktor Frankl
 - *Smile* - Roddy Doyle
 - *On Bullshit* - Harry G. Frankfurt

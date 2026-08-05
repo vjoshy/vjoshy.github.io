@@ -5,6 +5,4 @@ inline: true # false for linked post
 related_posts: false
 ---
 
-Started MSc. Statistics at University of Guelph
-
-
+Started MSc. Applied Statistics at University of Guelph
