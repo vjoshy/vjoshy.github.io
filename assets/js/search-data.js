@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "Some projects I&#39;ve worked for my own learning",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-bookshelf",
           title: "Bookshelf",
           description: "This is a non-exhaustive list of books I have read over the years since I turned 18. I prefer non-fiction and try to cover a wide breadth of topics. This list reflects my reading activity, not my opinions, values, or personal philosophy.",
@@ -50,6 +57,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-completed-msc-applied-statistics-at-university-of-guelph",
           title: 'Completed MSc. Applied Statistics at University of Guelph',
+          description: "",
+          section: "News",},{id: "news-started-mmath-computational-mathematics-at-university-of-waterloo",
+          title: 'Started MMath Computational Mathematics at University of Waterloo',
           description: "",
           section: "News",},{
       id: 'light-theme',
