@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+### **University of Waterloo**
+- **_MATH 117 - Calculus 1 for Engineers_**, Teaching Assistant in Fall 2026
+- **_MATH 227 - Calculus 3 for Honours Physics_**, Teaching Assistant in Fall 2026
+
 ### **University of Guelph**
 - **_STAT*3110 - Mathematical Statistics II_**, Teaching Assistant in Winter 2026
 - **_STAT*2090 - Introductory Applied Statistics II_**, Teaching Assistant in Winter 2026

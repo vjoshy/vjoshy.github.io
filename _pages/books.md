@@ -5,14 +5,14 @@ permalink: /books/
 nav: true
 #collection: books
 description: This is a non-exhaustive list of books I have read over the years since I turned 18. I prefer non-fiction and try to cover a wide breadth of topics. This list reflects my reading activity, not my opinions, values, or personal philosophy.
-nav_order: 5
+nav_order: 6
 ---
 #### **Books I am currently reading**
-- *A History of Canada in Ten Maps* - Adam Shoalts
 - *How Countries Go Broke: The Big Cycle* - Ray Dalio
 - *The Gene: An Intimate History* - Siddhartha Mukherjee
 
 #### **Books I have read**
+- *A History of Canada in Ten Maps* - Adam Shoalts
 - *The Guest Cat* - Takashi Hiraide
 - *Sophie's World* - Jostein Gaarder
 - *Tender Is the Night* - F. Scott Fitzgerald
